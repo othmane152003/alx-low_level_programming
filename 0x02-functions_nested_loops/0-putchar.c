@@ -1,5 +1,10 @@
-int _putchar(char c);
+#include "main.h"
 
+/**
+ * main -print _putchar 
+ *is writing by mbah 
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
 	_putchar('_');
@@ -12,5 +17,5 @@ int main(void)
 	_putchar('r');
 	_putchar('\n');
 
-	return 0;
+	return (0);
 }
